@@ -38,4 +38,6 @@ diagnosis.
 * L2 regularization- add the squared magnitude of the coefficient as a penalty term.
 * Hyperparameter Tuning - GridSearchCV
 # Descriptive Analytics - Powerbi dashboards
+![Dahboard1](https://github.com/RutvijDarji/Healthcare-Analytics-DIABETES-PREDICTION-through-ML-Deep-learning/assets/80823722/e8c81ef1-0f87-43db-8e38-acf7c893f956)
+
 
