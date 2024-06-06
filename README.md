@@ -40,4 +40,7 @@ diagnosis.
 # Descriptive Analytics - Powerbi dashboards
 ![Dahboard1](https://github.com/RutvijDarji/Healthcare-Analytics-DIABETES-PREDICTION-through-ML-Deep-learning/assets/80823722/e8c81ef1-0f87-43db-8e38-acf7c893f956)
 
+![Dashboard2](https://github.com/RutvijDarji/Healthcare-Analytics-DIABETES-PREDICTION-through-ML-Deep-learning/assets/80823722/96233aa5-bbd9-45be-a6e5-b5d5907e8d55)
+
+
 
