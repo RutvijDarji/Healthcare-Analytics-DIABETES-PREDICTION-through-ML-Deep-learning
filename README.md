@@ -42,5 +42,20 @@ diagnosis.
 
 ![Dashboard2](https://github.com/RutvijDarji/Healthcare-Analytics-DIABETES-PREDICTION-through-ML-Deep-learning/assets/80823722/96233aa5-bbd9-45be-a6e5-b5d5907e8d55)
 
+![Dashboard3](https://github.com/RutvijDarji/Healthcare-Analytics-DIABETES-PREDICTION-through-ML-Deep-learning/assets/80823722/3d7f5ac1-1a31-4ef3-9ff3-d03fe39f5aa8)
+
+# ML Models
+* Decision Tree Classifier
+* Random Forest Classifier
+* Support Vector Machine
+  
+# Deep learning
+* Artificial Neural Network (ANN)
+* Layers - 4 Dense layers with 64 neurons as input layer and 3 neurons as output. 
+* Activation Function - Relu, Softmax (OP Fun)
+* Optimizer -  'adam'
+* Loss function - 'sparse_categorical_crossentropy'
+
+
 
 
